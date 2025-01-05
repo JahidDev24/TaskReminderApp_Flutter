@@ -119,5 +119,5 @@ The Task Reminder App is a Flutter-based application designed to manage tasks wi
 ---
 
 ## Contact
-For issues or feature requests, please open an issue on GitHub or contact [Your Name/Email].
+For issues or feature requests, please open an issue on GitHub or contact [Jahid khan/support@quantechbit.com].
 
